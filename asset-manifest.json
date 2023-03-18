@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e3eb56c.css",
+    "main.js": "/static/js/main.bac3c074.js",
+    "static/js/787.1b6944fe.chunk.js": "/static/js/787.1b6944fe.chunk.js",
+    "static/media/Shubham_IITPKD.pdf": "/static/media/Shubham_IITPKD.23fdbbea9be27b53166a.pdf",
+    "static/media/grocery.png": "/static/media/grocery.48690c27c0d0d35f73fa.png",
+    "static/media/snakemania.png": "/static/media/snakemania.88bacc492432155dd699.png",
+    "static/media/securelogin.png": "/static/media/securelogin.9c7aceffefe6d7d45681.png",
+    "static/media/avatar.svg": "/static/media/avatar.816be10b63238d2b97fee27bc3ee26f4.svg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/mindistnode.png": "/static/media/mindistnode.6dbeaee60b50734e425f.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.2e3eb56c.css.map": "/static/css/main.2e3eb56c.css.map",
+    "main.bac3c074.js.map": "/static/js/main.bac3c074.js.map",
+    "787.1b6944fe.chunk.js.map": "/static/js/787.1b6944fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e3eb56c.css",
+    "static/js/main.bac3c074.js"
+  ]
+}
